@@ -78,7 +78,7 @@ header {
 .social-icons a{
 
     background-color:black;
-    height: 70px;
+    height: 70vh;
     width: 50px;
     margin: 20px 10px;
     position: relative;
@@ -98,13 +98,9 @@ header {
     font-size: 75px;
     color:#6d6d6d;
     font-weight: bold;
-    /* letter-spacing: 5px; */
     padding: 5px;
-    /* font: italic; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* margin: 30px ; */
     line-height: 55px;
-    /* display: flex; */
     justify-content: center;
 
     
@@ -119,5 +115,31 @@ header {
     background-color: honeydew;
     font-size: 25px;
     font-weight: 800;
+
+}
+/* services */
+.box-1,.box-2{
+    width: 30%;
+    height: 320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    display:center;
+    margin: 20px;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 12px 0px 12px 12px ;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+   
+
+}
+.box-1{
+    width: 300px;
+    height: 320px; 
+    padding: 15px;
+    
 
 }
