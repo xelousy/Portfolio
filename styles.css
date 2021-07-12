@@ -62,3 +62,8 @@ header {
     color: black;
     background-color: white;
 }
+#service{
+    height: 50vh;
+    color: grey;
+    background-color: black;
+}
