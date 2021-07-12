@@ -102,7 +102,7 @@ header {
 }
 #contact{
     height: 80vh;
-    color: grey;
+    color: gray;
     /* background-color: black; */
 }
 .social-icons a{
@@ -208,5 +208,6 @@ header {
     color:lightslategray;
 }
 /* contact */
+
 
 
